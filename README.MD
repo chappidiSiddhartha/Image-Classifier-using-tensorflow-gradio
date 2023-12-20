@@ -17,4 +17,4 @@ Dense layer (10 units, no activation specified)
 
 The model is trained on the MNIST dataset for 8 epochs using the Adam optimizer and Sparse Categorical Crossentropy loss.
 
-The model has achieved an accuracy of 98.47%
+The model has achieved an accuracy of 98.47% using dense neural networks , 99.2% using CNN
